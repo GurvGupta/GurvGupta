@@ -54,12 +54,11 @@
 	<a href="https://www.python.org" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 	</a>
-
 	<a href="https://django.com" target="_blank">
 		<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" width="40" height="40"/>
 	</a>
-	<a href="https://django.com" target="_blank">
-		<img src="[![Flask](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true)](http://flask.pocoo.org/)" alt="Django" width="40" height="40"/>
+	<a href="https://flask.palletsprojects.com/en/2.2.0/" target="_blank">
+		<img src="[![Flask](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true)](http://flask.pocoo.org/)" alt="Flask" width="40" height="40"/>
 	</a>
 	<a href="https://aws.amazon.com/" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
