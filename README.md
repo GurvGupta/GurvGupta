@@ -54,25 +54,21 @@
 	<a href="https://www.python.org" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 	</a>
-	<!-- <a href="https://reactnative.dev/" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/>
-	</a> -->
-	<!-- <a href="https://dart.dev" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-	</a> -->
+	<a href="https://django.com" target="_blank">
+		<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" width="40" height="40"/>
+	</a>
+	<a href="https://aws.amazon.com/" target="_blank">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+	</a>
 	<a href="https://firebase.google.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 	</a>
-	<!-- <a href="https://flutter.dev" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-	</a> -->
 	<a href="https://git-scm.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 	</a>
 	
 </p>
 
-### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="50"> Problem Solving website progress:
 
 <p align="left">
 	<a href="https://leetcode.com/gurv_gupta/" target="_blank">
