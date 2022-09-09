@@ -2,7 +2,7 @@
 
 ## I'm a IT student, Python Developer
 
-- 🌱 I’m currently learning about **Deep Learning** and **DSA**
+- 🌱 I’m currently learning about **Machine Learning** and **Deep Learning**
 
 <!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
 
@@ -10,7 +10,7 @@
 
 <!-- - 📝 I Have my portfolio at [https://devangsharma.me/](https://devangsharma.me/) -->
 
-- 💬 Ask me about **C/C++, Python, Machine Learning/Deep Learning**
+- 💬 Ask me about **C/C++, Python, Machine Learning/Deep Learning/NLP**
 
 - 📫 How to reach me **gupta761951@gmail.com**
 
