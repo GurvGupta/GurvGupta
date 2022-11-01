@@ -1,10 +1,10 @@
-## Hi there, I'm Gurv Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Welcome to my profile, I'm Gurv Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a IT student, Python Developer
+## I'm a student of Python
 
-- 🌱 I’m currently learning about **Machine Learning** and **Deep Learning**
+- 🌱 I’m currently learning about **Machine Learning**, **Deep Learning** & **NLP**
 
-<!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
+- 👯 I’m looking to collaborate on **Any Projects as per my skillset**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GurvGupta](https://github.com/GurvGupta)
 
