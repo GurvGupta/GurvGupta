@@ -10,7 +10,7 @@
 
 <!-- - 📝 I Have my portfolio at [https://devangsharma.me/](https://devangsharma.me/) -->
 
-- 💬 Ask me about **C/C++, Python, Machine Learning/Deep Learning/NLP**
+- 💬 Ask me about Python, Machine Learning| Deep Learning| NLP| Django**
 
 - 📫 How to reach me **gupta761951@gmail.com**
 
