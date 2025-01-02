@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gupta761951@gmail.com**
 
-- 📄 Know about other detail in my **[Resume](https://bit.ly/gurv_resume)**
+- 📄 Know about other detail in my **[Resume](https://bit.ly/gurvresume)**
 
 ### 👦Stats:
 
