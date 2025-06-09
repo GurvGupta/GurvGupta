@@ -1,8 +1,8 @@
 ## Welcome to my profile, I'm Gurv Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a student of Python
+## I'm an AI Engineer.
 
-- 🌱 I’m currently learning about **Machine Learning**, **Deep Learning** & **NLP**
+- 🌱 I’m having 1 year of experience working in **Machine Learning** & **AI**.
 
 - 👯 I’m looking to collaborate on **Any Projects as per my skillset**
 
@@ -10,7 +10,7 @@
 
 <!-- - 📝 I Have my portfolio at [https://devangsharma.me/](https://devangsharma.me/) -->
 
-- 💬 Ask me about Python, Machine Learning| Deep Learning| NLP| Django**
+- 💬 Ask me about Generative AI, Machine Learning and stuff**
 
 - 📫 How to reach me **gupta761951@gmail.com**
 
